@@ -1,5 +1,6 @@
-# Repositorio do Desafio de Projeto sobre Git/GitHub 🖥️
-Repositório criado para o desafio de projeto
+# Repositorio da Jornada TQI Fullstack Developer 🖥️
+Repositório criado para compartilhar todo o meu desenvolvimento
+durante a jornada da plataforma DIO
 
 ## Links úteis
 [Guia para Markdown](https://www.markdownguide.org/getting-started/)
