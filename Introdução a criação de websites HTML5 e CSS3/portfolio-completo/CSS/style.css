@@ -208,7 +208,7 @@ a:hover {
     height: 300px;
     width: 400px;
     margin: 3rem 0 0 0;
-    background-image: url('images/card.jpg');
+    background-image: url('assets/card.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

@@ -14,7 +14,7 @@ body {
 
 .masthead {
   padding: 8em 0;
-  background-image: url('images/space.jpg');
+  background-image: url('assets/space.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border-top: solid 8em #042c70;
@@ -73,7 +73,7 @@ section > h1 {
 
 .masthead {
     padding: 6em 0;
-    background-image: url('images/space.jpg');
+    background-image: url('assets/space.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     border-top: solid 1em #042c70;
